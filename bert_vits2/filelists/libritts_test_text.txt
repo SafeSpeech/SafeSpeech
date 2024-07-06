@@ -1,0 +1,26 @@
+data/real/LibriTTS/5339/14134/5339_14134_000082_000000.wav|0|What then? and your mother away.
+data/real/LibriTTS/5339/14133/5339_14133_000018_000000.wav|0|Sylvia sat in the house-place, her back to the long low window, in order to have all the light the afternoon hour afforded for her work.
+data/real/LibriTTS/5339/14134/5339_14134_000064_000001.wav|0|Her father was right in saying that she might not have set out for Yesterbarrow.
+data/real/LibriTTS/5339/14134/5339_14134_000095_000001.wav|0|Just at that moment the little casement window of Sylvia's room was opened, and she said--
+data/real/LibriTTS/5339/14133/5339_14133_000017_000000.wav|0|Out of respect to him, Philip asked no more questions although there were many things that he fain would have known.
+data/real/LibriTTS/5339/14133/5339_14133_000020_000002.wav|0|She felt his eyes were upon her, watching every motion, and grew more and more confused in her expression and behaviour.
+data/real/LibriTTS/5339/14134/5339_14134_000024_000002.wav|0|It's the Lord's doing, and luck's the devil's way of putting it.
+data/real/LibriTTS/5339/14134/5339_14134_000043_000000.wav|0|Daniel was deeply struck with the fact that he was talking to a man setting off for London at a day's notice.
+data/real/LibriTTS/5339/14134/5339_14134_000030_000000.wav|0|Philip knows, said Hester, and then, somehow, her voice failed her and she stopped.
+data/real/LibriTTS/5339/14134/5339_14134_000047_000000.wav|0|No, I shan't, he replied, shortly.
+data/real/LibriTTS/5339/14134/5339_14134_000055_000000.wav|0|He turned away, and began to whistle, as if he did not wish for any further conversation with his interrogator.
+data/real/LibriTTS/5339/14134/5339_14134_000009_000002.wav|0|Philip, indeed, was quite idle when John Foster opened the parlour-door, and, half doubtfully, called him into the room.
+data/real/LibriTTS/5339/14134/5339_14134_000092_000004.wav|0|Sylvie!
+data/real/LibriTTS/5339/14134/5339_14134_000072_000000.wav|0|Well?
+data/real/LibriTTS/5339/14133/5339_14133_000005_000000.wav|0|Things were much in this state when the frost broke, and milder weather succeeded.
+data/real/LibriTTS/5339/14133/5339_14133_000004_000001.wav|0|She was rather thinner and paler; but whatever change there was in her was always an improvement in Philip's eyes, so long as she spoke graciously to him.
+data/real/LibriTTS/5339/14133/5339_14133_000035_000000.wav|0|He came in, not seeing that any one was there at first; for they had never thought of lighting a candle.
+data/real/LibriTTS/5339/14134/5339_14134_000009_000003.wav|0|As the door of communication shut the three in, Coulson felt himself a little aggrieved.
+data/real/LibriTTS/5339/14134/5339_14134_000070_000000.wav|0|You see, Sylvie, I've had a deal to think on; before long I intend telling you all about it; just now I'm not free to do it.
+data/real/LibriTTS/5339/14133/5339_14133_000026_000004.wav|0|He asked her about her mother; not sorry in his heart at Bell Robson's absence.
+data/real/LibriTTS/5339/14133/5339_14133_000023_000001.wav|0|Then he said
+data/real/LibriTTS/5339/14133/5339_14133_000010_000000.wav|0|Is he here again? said Philip; I didn't see him.
+data/real/LibriTTS/5339/14133/5339_14133_000025_000000.wav|0|He made for the door.
+data/real/LibriTTS/5339/14133/5339_14133_000003_000002.wav|0|By degrees both Hepburn and Coulson were introduced to distant manufacturers and wholesale dealers.
+data/real/LibriTTS/5339/14133/5339_14133_000034_000000.wav|0|Dolly Reid came in, and went out softly, unheeded by them.
+data/real/LibriTTS/5339/14134/5339_14134_000091_000003.wav|0|He sate till it grew dusk, dark; the wood fire, not gathered together by careful hands, died out into gray ashes.

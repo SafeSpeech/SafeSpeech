@@ -1,0 +1,108 @@
+data/real/LibriTTS/5339/14134/5339_14134_000062_000000.wav|0|EN|I see, said Philip: Robinson, Side, Newcastle, can give all requisite information.
+data/real/LibriTTS/5339/14134/5339_14134_000041_000004.wav|0|EN|He would be patient with her; he could not be patient himself.
+data/real/LibriTTS/5339/14134/5339_14134_000092_000008.wav|0|EN|Yet once again--Good-by, Sylvie, and God bless you!
+data/real/LibriTTS/5339/14134/5339_14134_000075_000001.wav|0|EN|But he reasoned that first correct impression away with ingenious sophistry.
+data/real/LibriTTS/5339/14134/5339_14134_000078_000000.wav|0|EN|Suddenly a light shone down into Philip's mind.
+data/real/LibriTTS/5339/14134/5339_14134_000041_000000.wav|0|EN|His feelings, disturbed on this one point, shook his judgment off its balance on another.
+data/real/LibriTTS/5339/14134/5339_14134_000004_000000.wav|0|EN|Chapter seventeen.
+data/real/LibriTTS/5339/14134/5339_14134_000080_000000.wav|0|EN|She stooped for something she had dropped, and came up red as a rose.
+data/real/LibriTTS/5339/14133/5339_14133_000040_000001.wav|0|EN|I'm now coming down again to-night.
+data/real/LibriTTS/5339/14134/5339_14134_000010_000001.wav|0|EN|Jeremiah, the less energetic and decided brother, was still discussing the propriety of the step when Philip entered.
+data/real/LibriTTS/5339/14134/5339_14134_000078_000001.wav|0|EN|His voice was changed as he spoke next.
+data/real/LibriTTS/5339/14133/5339_14133_000005_000003.wav|0|EN|The widow-woman was to come and stay in the house, to keep Sylvia company, during her mother's absence.
+data/real/LibriTTS/5339/14133/5339_14133_000036_000000.wav|0|EN|Bless thee, lad!
+data/real/LibriTTS/5339/14134/5339_14134_000091_000007.wav|0|EN|Yet it seemed as though he could not stir.
+data/real/LibriTTS/5339/14134/5339_14134_000047_000001.wav|0|EN|Liking has nought to do with it.
+data/real/LibriTTS/5339/14133/5339_14133_000017_000003.wav|0|EN|But, if he had done so, it would have been locking the stable-door after the steed was stolen.
+data/real/LibriTTS/5339/14133/5339_14133_000018_000002.wav|0|EN|It was 'redd up' for the afternoon; covered with a black mass of coal, over which the equally black kettle hung on the crook.
+data/real/LibriTTS/5339/14134/5339_14134_000069_000001.wav|0|EN|As it was, she scarcely took in the sense of his words.
+data/real/LibriTTS/5339/14134/5339_14134_000060_000000.wav|0|EN|I'm not going by York; I'm going by a Newcastle smack.
+data/real/LibriTTS/5339/14134/5339_14134_000051_000000.wav|0|EN|Kinraid now seemed in a hurry; but Philip was stung with curiosity to ascertain his movements, and suddenly addressed him:
+data/real/LibriTTS/5339/14133/5339_14133_000039_000001.wav|0|EN|Then a door was unbolted, and Sylvia said,
+data/real/LibriTTS/5339/14133/5339_14133_000017_000004.wav|0|EN|Kinraid had turned his steps towards Haytersbank Farm as soon as ever he had completed his purchases.
+data/real/LibriTTS/5339/14134/5339_14134_000064_000005.wav|0|EN|He loved her, and that was enough.
+data/real/LibriTTS/5339/14134/5339_14134_000039_000002.wav|0|EN|Coulson remained alone, feeling like a guilty child, but dismayed by Hester's words, even more than by his own regret at what he had said.
+data/real/LibriTTS/5339/14134/5339_14134_000064_000000.wav|0|EN|Philip promised to do his best, and to write word to Robson, who, satisfied with his willingness to undertake the commission, bade him go on and see if he could not find the lass.
+data/real/LibriTTS/5339/14134/5339_14134_000092_000000.wav|0|EN|Sylvie!
+data/real/LibriTTS/5339/14134/5339_14134_000082_000001.wav|0|EN|He's no company for such as thee, at no time, Sylvie.
+data/real/LibriTTS/5339/14134/5339_14134_000016_000002.wav|0|EN|He said little; but what he did say was to the point, and satisfied both brothers.
+data/real/LibriTTS/5339/14133/5339_14133_000018_000007.wav|0|EN|But she was so afraid of herself, so unwilling to show what she felt, and how much she had been thinking of him in his absence, that her reception seemed cold and still.
+data/real/LibriTTS/5339/14133/5339_14133_000041_000000.wav|0|EN|Daniel laughed the more at this, especially when he caught Charley's look of disappointment.
+data/real/LibriTTS/5339/14134/5339_14134_000091_000002.wav|0|EN|He sate still in despair, his head buried in his two hands.
+data/real/LibriTTS/5339/14133/5339_14133_000030_000000.wav|0|EN|Not he, said Sylvia, with some contempt in her tone.
+data/real/LibriTTS/5339/14133/5339_14133_000013_000001.wav|0|EN|Coulson's face was pale with anger, but for a moment or two he seemed uncertain whether he would reply or not.
+data/real/LibriTTS/5339/14133/5339_14133_000037_000004.wav|0|EN|He wound up with a chuckle, as the thought struck him that this great piece of business, of disposing of their only child, had been concluded while his wife was away.
+data/real/LibriTTS/5339/14134/5339_14134_000016_000000.wav|0|EN|As all this was being revealed to Philip, he sat apparently unmoved and simply attentive.
+data/real/LibriTTS/5339/14134/5339_14134_000092_000006.wav|0|EN|He waited patiently.
+data/real/LibriTTS/5339/14134/5339_14134_000009_000001.wav|0|EN|But fortunately there was little doing in the shop.
+data/real/LibriTTS/5339/14134/5339_14134_000083_000001.wav|0|EN|At the time, in his agitation, he saw, but did not affix any meaning to it, that the half of some silver coin was among the contents thus turned over before the box was locked.
+data/real/LibriTTS/5339/14134/5339_14134_000056_000000.wav|0|EN|I'd like to bid good-by to Sylvie.
+data/real/LibriTTS/5339/14134/5339_14134_000058_000001.wav|0|EN|Robson was fumbling among some dirty papers he had in an old leather case, which he had produced out of his pocket.
+data/real/LibriTTS/5339/14133/5339_14133_000025_000001.wav|0|EN|He must have been pretty sure from some sign or other, or he would never have left it to her womanly pride to give way, and for her to make the next advance.
+data/real/LibriTTS/5339/14133/5339_14133_000039_000000.wav|0|EN|For a time there was no answer.
+data/real/LibriTTS/5339/14134/5339_14134_000041_000005.wav|0|EN|His heart beating, his busy mind rehearsing the probable coming scene, he turned into the field-path that led to Haytersbank.
+data/real/LibriTTS/5339/14134/5339_14134_000019_000000.wav|0|EN|When he was once more behind the counter, he had leisure enough for consideration as far as Coulson could give it him.
+data/real/LibriTTS/5339/14134/5339_14134_000010_000000.wav|0|EN|It was apparently by John Foster's wish that Philip had been summoned.
+data/real/LibriTTS/5339/14134/5339_14134_000019_000001.wav|0|EN|The latter was silent, brooding over the confidence which Philip had apparently received, but which was withheld from him.
+data/real/LibriTTS/5339/14134/5339_14134_000022_000000.wav|0|EN|Hester said nothing.
+data/real/LibriTTS/5339/14134/5339_14134_000016_000001.wav|0|EN|In fact, he was giving all his mind to understanding the probabilities of the case, leaving his own feelings in the background till his intellect should have done its work.
+data/real/LibriTTS/5339/14134/5339_14134_000069_000000.wav|0|EN|If she had been less occupied with her own affairs, less engrossed with deep feeling, she would have reproached him, if only in jest, for his carelessness.
+data/real/LibriTTS/5339/14134/5339_14134_000017_000000.wav|0|EN|Philip had the satisfaction of feeling himself employed on a mission which would call out his powers, and yet not exceed them.
+data/real/LibriTTS/5339/14134/5339_14134_000021_000000.wav|0|EN|To Lunnon! exclaimed Alice.
+data/real/LibriTTS/5339/14133/5339_14133_000018_000010.wav|0|EN|But all she said was--
+data/real/LibriTTS/5339/14133/5339_14133_000027_000000.wav|0|EN|There'll be no need of that, murmured Sylvia.
+data/real/LibriTTS/5339/14134/5339_14134_000091_000009.wav|0|EN|Up the little wooden stairs he went, where he had never been before, to the small square landing, almost filled up with the great chest for oat-cake.
+data/real/LibriTTS/5339/14134/5339_14134_000097_000000.wav|0|EN|The window was shut again as soon as the words were spoken.
+data/real/LibriTTS/5339/14134/5339_14134_000091_000004.wav|0|EN|Dolly Reid had done her work and gone home.
+data/real/LibriTTS/5339/14134/5339_14134_000041_000008.wav|0|EN|The thought of poor dead Annie Coulson flashed into Philip's mind.
+data/real/LibriTTS/5339/14134/5339_14134_000039_000000.wav|0|EN|She hastily got up and left the room.
+data/real/LibriTTS/5339/14133/5339_14133_000037_000001.wav|0|EN|And, perhaps, the elder man was not unprepared for the communication that followed.
+data/real/LibriTTS/5339/14133/5339_14133_000007_000003.wav|0|EN|One evening after the shop was closed, while they were examining the goods, and comparing the sales with the entries in the day-book, Coulson suddenly inquired--
+data/real/LibriTTS/5339/14134/5339_14134_000013_000001.wav|0|EN|The letters hinted at the utter insolvency of this manufacturer.
+data/real/LibriTTS/5339/14133/5339_14133_000024_000004.wav|0|EN|I may go back to where I came from, he went on.
+data/real/LibriTTS/5339/14134/5339_14134_000092_000002.wav|0|EN|Not a sound heard. Sylvie! (a little louder, and less hoarsely spoken).
+data/real/LibriTTS/5339/14134/5339_14134_000092_000003.wav|0|EN|There was no reply.
+data/real/LibriTTS/5339/14134/5339_14134_000067_000000.wav|0|EN|Oh, yes, said she.
+data/real/LibriTTS/5339/14133/5339_14133_000028_000000.wav|0|EN|She was too dizzy with happiness to have attended much to his details of his worldly prospects, but at the sound of his tender words of love her eager heart was ready to listen.
+data/real/LibriTTS/5339/14134/5339_14134_000075_000000.wav|0|EN|Surprise, and curiosity, and wonder; nothing more, as Philip's instinct told him.
+data/real/LibriTTS/5339/14133/5339_14133_000023_000000.wav|0|EN|Charley did not speak for a minute or so.
+data/real/LibriTTS/5339/14134/5339_14134_000035_000000.wav|0|EN|He took his cap and was gone, not heeding Alice's shrill inquiry as to his clothes and his ruffled shirt.
+data/real/LibriTTS/5339/14134/5339_14134_000041_000010.wav|0|EN|Philip set his teeth and tightened his lips at the thought of it.
+data/real/LibriTTS/5339/14133/5339_14133_000006_000006.wav|0|EN|These were the larger wholesale orders; but many a man, and woman, too, brought out their small hoards to purchase extra comforts, or precious keepsakes for some beloved one.
+data/real/LibriTTS/5339/14134/5339_14134_000093_000000.wav|0|EN|No reply.
+data/real/LibriTTS/5339/14134/5339_14134_000012_000000.wav|0|EN|But the young man was there in presence; and John's will carried the day.
+data/real/LibriTTS/5339/14134/5339_14134_000025_000000.wav|0|EN|It's none of my doing, said Philip; there's business to be done, and John Foster says I'm to do it; and I'm to start to-morrow.
+data/real/LibriTTS/5339/14133/5339_14133_000020_000001.wav|0|EN|Neither could keep quiet and silent long.
+data/real/LibriTTS/5339/14134/5339_14134_000006_000001.wav|0|EN|Of the number of letters that arrived in Monkshaven, the Fosters, shopkeepers and bankers, had the largest share.
+data/real/LibriTTS/5339/14133/5339_14133_000002_000004.wav|0|EN|Her mother's story of crazy Nancy had taken hold of her; but not as a 'caution,' rather as a parallel case to her own.
+data/real/LibriTTS/5339/14133/5339_14133_000013_000000.wav|0|EN|Why, what's up? said Philip, surprised at William's unusual manner, and, at the same time, rather gratified to find a reflection of his own feelings about Kinraid.
+data/real/LibriTTS/5339/14134/5339_14134_000068_000001.wav|0|EN|It's clean gone out of my mind, said Philip, with true regret.
+data/real/LibriTTS/5339/14134/5339_14134_000092_000001.wav|0|EN|I'm going away; say good-by. No answer.
+data/real/LibriTTS/5339/14134/5339_14134_000039_000001.wav|0|EN|Alice was away, looking up Philip's things for his journey.
+data/real/LibriTTS/5339/14134/5339_14134_000024_000000.wav|0|EN|Luck! said Alice, turning sharp round on him.
+data/real/LibriTTS/5339/14134/5339_14134_000092_000009.wav|0|EN|I'm sorry I vexed you.
+data/real/LibriTTS/5339/14134/5339_14134_000055_000001.wav|0|EN|Philip, indeed, had nothing more to say to him: he had learned all he wanted to know.
+data/real/LibriTTS/5339/14134/5339_14134_000076_000001.wav|0|EN|I shall be back, I reckon, in a month or so.
+data/real/LibriTTS/5339/14134/5339_14134_000064_000002.wav|0|EN|She had talked about it to Kinraid and her father in order to cover her regret at her lover's accompanying her father to see some new kind of harpoon about which the latter had spoken.
+data/real/LibriTTS/5339/14134/5339_14134_000092_000007.wav|0|EN|Can she be wearied out, and gone to sleep, he wondered.
+data/real/LibriTTS/5339/14134/5339_14134_000091_000008.wav|0|EN|At length he raised his stiffened body, and stood up, dizzy.
+data/real/LibriTTS/5339/14133/5339_14133_000040_000000.wav|0|EN|I can't come down again.
+data/real/LibriTTS/5339/14134/5339_14134_000091_000010.wav|0|EN|He breathed hard for a minute, and then knocked at the door of Sylvia's room.
+data/real/LibriTTS/5339/14134/5339_14134_000071_000000.wav|0|EN|Sylvia's galloping thoughts were pulled suddenly up by his silence; she felt that he wanted her to say something, but she could think of nothing besides an ambiguous--
+data/real/LibriTTS/5339/14134/5339_14134_000041_000002.wav|0|EN|He would speak to her of his passionate attachment, before he left, for an uncertain length of time, and the certain distance of London.
+data/real/LibriTTS/5339/14133/5339_14133_000037_000002.wav|0|EN|At any rate, it was not unwelcome.
+data/real/LibriTTS/5339/14133/5339_14133_000006_000005.wav|0|EN|The shops in the town were equally busy; stores had to be purchased by the whaling-masters, warm clothing of all sorts to be provided.
+data/real/LibriTTS/5339/14134/5339_14134_000041_000006.wav|0|EN|Coming along it, and so meeting him, advanced Daniel Robson, in earnest talk with Charley Kinraid.
+data/real/LibriTTS/5339/14134/5339_14134_000037_000000.wav|0|EN|She lifted up those eyes, usually so soft and serene; now they were full of the light of indignation shining through tears.
+data/real/LibriTTS/5339/14134/5339_14134_000097_000002.wav|0|EN|Those two words of hers, which two hours before would have been so far beneath his aspirations, had now power to re-light hope, to quench reproach or blame.
+data/real/LibriTTS/5339/14134/5339_14134_000058_000000.wav|0|EN|So they parted; but Philip had not gone many steps before his uncle called him back, Kinraid slowly loitering on meanwhile.
+data/real/LibriTTS/5339/14134/5339_14134_000041_000009.wav|0|EN|Could he be playing the same game with Sylvia?
+data/real/LibriTTS/5339/14134/5339_14134_000076_000000.wav|0|EN|Not to live there: only to stay for some time.
+data/real/LibriTTS/5339/14134/5339_14134_000091_000006.wav|0|EN|He knew he ought to be going home, for he had much to do, and many arrangements to make.
+data/real/LibriTTS/5339/14134/5339_14134_000040_000001.wav|0|EN|He was chafed and excited by Coulson's words, and the events of the day.
+data/real/LibriTTS/5339/14134/5339_14134_000056_000001.wav|0|EN|Is she at home? he asked of her father.
+data/real/LibriTTS/5339/14134/5339_14134_000094_000000.wav|0|EN|With a heavy, heavy heart he creaked down the stairs, felt for his cap, and left the house.
+data/real/LibriTTS/5339/14133/5339_14133_000035_000001.wav|0|EN|Kinraid stepped forward into the firelight; his purpose of concealing what he had said to Sylvia quite melted away by the cordial welcome her father gave him the instant that he recognized him.
+data/real/LibriTTS/5339/14134/5339_14134_000033_000000.wav|0|EN|It's fine talking, said Coulson, half mollified, and yet not caring to show it.
+data/real/LibriTTS/5339/14134/5339_14134_000035_000001.wav|0|EN|Coulson sat still, penitent and ashamed; at length he stole a look at Hester.
+data/real/LibriTTS/5339/14134/5339_14134_000096_000000.wav|0|EN|Good-by, Philip!

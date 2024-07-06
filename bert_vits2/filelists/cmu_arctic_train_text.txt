@@ -1,0 +1,1440 @@
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0028.wav|14|EN|Robbery, bribery, fraud, 
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0059.wav|2|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0026.wav|12|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0071.wav|8|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0004.wav|5|EN|Lord, but I'm glad to see you again, Phil.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0009.wav|13|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0006.wav|7|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0044.wav|2|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0017.wav|9|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0032.wav|11|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0004.wav|11|EN|Lord, but I'm glad to see you again, Phil.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0002.wav|4|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0067.wav|16|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0029.wav|10|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0003.wav|0|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0013.wav|1|EN|He was a head shorter than his companion, of almost delicate physique."
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0081.wav|15|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0035.wav|5|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0036.wav|11|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0081.wav|13|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0003.wav|6|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0035.wav|9|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0078.wav|11|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0015.wav|3|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0048.wav|7|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0074.wav|14|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0096.wav|3|EN|He had barely entered this when he saw the glow of a fire.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0041.wav|15|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0042.wav|2|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0066.wav|1|EN|He saw Jeanne falter for a moment."
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0093.wav|14|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0020.wav|17|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0020.wav|16|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0049.wav|7|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0096.wav|1|EN|Perhaps she had already met her fate a little deeper in the forest."
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0096.wav|12|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0076.wav|4|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0044.wav|11|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0030.wav|5|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0092.wav|4|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0019.wav|15|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0027.wav|8|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0045.wav|0|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0030.wav|11|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0012.wav|10|EN|Gregson shoved back his chair and rose to his feet.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0010.wav|3|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0031.wav|5|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0057.wav|15|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0059.wav|15|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0088.wav|16|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0083.wav|2|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0069.wav|12|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0071.wav|15|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0098.wav|5|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0021.wav|0|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0100.wav|10|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0038.wav|1|EN|We'll have to watch our chances."
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0001.wav|15|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0087.wav|15|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0043.wav|9|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0007.wav|11|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0088.wav|9|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0086.wav|0|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0097.wav|16|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0091.wav|2|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0068.wav|1|EN|In a flash Philip followed its direction."
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0058.wav|12|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0012.wav|1|EN|Gregson shoved back his chair and rose to his feet."
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0033.wav|17|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0097.wav|7|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0046.wav|7|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0078.wav|2|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0023.wav|14|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0076.wav|7|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0019.wav|17|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0073.wav|11|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0027.wav|2|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0093.wav|13|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0054.wav|4|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0039.wav|12|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0089.wav|13|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0016.wav|3|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0088.wav|7|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0031.wav|12|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0097.wav|0|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0015.wav|0|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0017.wav|12|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0046.wav|0|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0086.wav|13|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0086.wav|5|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0056.wav|3|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0088.wav|13|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0075.wav|7|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0074.wav|12|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0045.wav|7|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0093.wav|4|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0073.wav|15|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0054.wav|17|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0029.wav|5|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0091.wav|16|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0020.wav|7|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0045.wav|11|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0006.wav|13|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0051.wav|15|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0029.wav|11|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0079.wav|1|EN|It was a large canoe."
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0052.wav|10|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0030.wav|3|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0071.wav|7|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0068.wav|16|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0054.wav|1|EN|There was nothing on the rock."
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0010.wav|0|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0007.wav|13|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0027.wav|17|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0032.wav|10|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0080.wav|0|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0005.wav|6|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0092.wav|15|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0037.wav|4|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0080.wav|5|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0021.wav|16|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0002.wav|0|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0025.wav|9|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0052.wav|0|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0058.wav|10|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0023.wav|5|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0003.wav|1|EN|For the twentieth time that evening the two men shook hands."
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0005.wav|0|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0050.wav|7|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0092.wav|1|EN|He went down in midstream, searching the shadows of both shores."
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0070.wav|6|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0005.wav|13|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0052.wav|7|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0083.wav|3|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0056.wav|13|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0052.wav|2|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0059.wav|12|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0003.wav|16|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0001.wav|7|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0021.wav|12|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0073.wav|1|EN|The promoter's eyes were heavy, with little puffy bags under them."
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0093.wav|8|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0063.wav|12|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0052.wav|8|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0076.wav|0|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0028.wav|3|EN|Robbery, bribery, fraud, 
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0041.wav|11|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0062.wav|16|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0090.wav|16|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0063.wav|9|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0039.wav|15|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0074.wav|4|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0072.wav|6|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0060.wav|10|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0049.wav|2|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0055.wav|15|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0097.wav|4|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0036.wav|7|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0085.wav|8|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0008.wav|10|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0030.wav|9|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0098.wav|10|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0048.wav|12|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0074.wav|17|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0024.wav|13|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0057.wav|9|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0088.wav|0|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0066.wav|5|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0048.wav|1|EN|He looked at the handkerchief more, closely."
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0063.wav|16|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0008.wav|14|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0059.wav|7|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0088.wav|10|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0034.wav|10|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0052.wav|17|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0037.wav|11|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0047.wav|0|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0067.wav|7|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0098.wav|1|EN|Shall I carry you."
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0075.wav|4|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0002.wav|15|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0097.wav|14|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0012.wav|17|EN|Gregson shoved back his chair and rose to his feet.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0045.wav|3|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0058.wav|16|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0079.wav|0|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0016.wav|9|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0094.wav|6|EN|He had barely entered this when he saw the glow of a fire.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0071.wav|9|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0025.wav|2|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0099.wav|10|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0059.wav|10|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0089.wav|0|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0073.wav|5|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0055.wav|0|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0071.wav|13|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0031.wav|0|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0057.wav|6|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0049.wav|10|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0019.wav|9|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0017.wav|5|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0014.wav|6|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0080.wav|17|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0009.wav|2|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0032.wav|15|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0046.wav|2|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0021.wav|17|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0019.wav|1|EN|I followed the line of the proposed railroad, looking for chances."
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0083.wav|7|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0069.wav|15|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0066.wav|3|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0043.wav|6|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0062.wav|8|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0026.wav|3|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0011.wav|0|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0100.wav|3|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0078.wav|12|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0008.wav|6|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0006.wav|10|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0032.wav|4|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0014.wav|0|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0088.wav|15|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0015.wav|12|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0064.wav|17|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0071.wav|14|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0065.wav|4|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0060.wav|8|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0074.wav|6|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0024.wav|14|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0094.wav|17|EN|He had barely entered this when he saw the glow of a fire.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0010.wav|15|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0037.wav|10|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0065.wav|15|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0094.wav|16|EN|He had barely entered this when he saw the glow of a fire.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0074.wav|0|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0077.wav|7|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0069.wav|17|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0079.wav|13|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0014.wav|5|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0025.wav|0|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0089.wav|1|EN|The nightglow was treacherous to shoot by."
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0016.wav|2|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0007.wav|14|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0060.wav|2|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0086.wav|4|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0015.wav|13|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0089.wav|9|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0020.wav|9|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0045.wav|17|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0021.wav|3|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0003.wav|10|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0059.wav|6|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0035.wav|12|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0098.wav|6|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0011.wav|7|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0047.wav|12|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0091.wav|3|EN|The night-glow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0060.wav|13|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0072.wav|16|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0097.wav|3|EN|A big canvas tent was the first thing to come within his vision.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0098.wav|2|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0005.wav|5|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0051.wav|4|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0071.wav|10|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0057.wav|11|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0082.wav|2|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0079.wav|4|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0044.wav|8|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0078.wav|9|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0044.wav|15|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0052.wav|12|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0075.wav|12|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0076.wav|9|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0024.wav|4|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0060.wav|3|EN|Anyway, no one saw her like, that.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0026.wav|0|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0045.wav|10|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0009.wav|6|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0082.wav|1|EN|His face was streaming with blood."
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0099.wav|16|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0098.wav|17|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0082.wav|14|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0040.wav|3|EN|I suppose you wonder why she is coming up here.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0024.wav|12|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0060.wav|15|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0024.wav|17|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0038.wav|15|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0045.wav|15|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0017.wav|0|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0054.wav|16|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0002.wav|16|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0007.wav|5|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0038.wav|11|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0001.wav|14|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0042.wav|3|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0002.wav|10|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0024.wav|7|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0072.wav|8|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0019.wav|8|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0060.wav|1|EN|Anyway, no one saw her like that."
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0079.wav|3|EN|The door opened behind them and Brokaw entered.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0099.wav|14|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0057.wav|14|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0080.wav|16|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0001.wav|8|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0062.wav|15|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0049.wav|14|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0058.wav|17|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0078.wav|1|EN|Then, and at supper, he tried to fathom her."
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0047.wav|16|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0013.wav|16|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0021.wav|1|EN|It fairly clubbed me into recognizing it."
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0084.wav|7|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0061.wav|13|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0012.wav|11|EN|Gregson shoved back his chair and rose to his feet.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0088.wav|2|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0075.wav|6|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0016.wav|17|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0069.wav|4|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0010.wav|14|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0029.wav|3|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0085.wav|7|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0064.wav|14|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0016.wav|6|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0011.wav|9|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0021.wav|11|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0073.wav|8|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0091.wav|14|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0058.wav|8|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0039.wav|2|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0093.wav|17|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0040.wav|4|EN|I suppose you wonder why she is coming up here.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0039.wav|10|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0100.wav|16|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0009.wav|5|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0075.wav|1|EN|There has been a change, she interrupted him."
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0038.wav|5|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0014.wav|8|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0052.wav|11|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0090.wav|10|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0096.wav|0|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0083.wav|11|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0086.wav|7|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0008.wav|4|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0047.wav|7|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0018.wav|11|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0035.wav|17|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0010.wav|17|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0024.wav|0|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0084.wav|14|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0019.wav|10|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0066.wav|7|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0070.wav|4|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0041.wav|16|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0098.wav|4|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0057.wav|8|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0032.wav|7|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0054.wav|8|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0028.wav|11|EN|Robbery, bribery, fraud, 
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0064.wav|9|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0073.wav|14|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0091.wav|4|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0090.wav|13|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0047.wav|9|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0064.wav|12|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0044.wav|12|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0049.wav|5|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0075.wav|8|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0034.wav|9|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0030.wav|10|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0026.wav|11|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0033.wav|5|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0016.wav|1|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep."
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0068.wav|8|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0048.wav|14|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0038.wav|3|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0080.wav|9|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0053.wav|7|EN|Suddenly his fingers closed tightly over the handkerchief.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0031.wav|16|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0033.wav|7|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0014.wav|10|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0061.wav|8|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0007.wav|1|EN|And you always want to see it in the superlative degree."
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0040.wav|13|EN|I suppose you wonder why she is coming up here.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0027.wav|3|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0036.wav|14|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0068.wav|14|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0053.wav|14|EN|Suddenly his fingers closed tightly over the handkerchief.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0070.wav|2|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0064.wav|4|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0033.wav|6|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0022.wav|9|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0017.wav|1|EN|From that moment his friendship for Belize turns to hatred and jealousy."
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0083.wav|16|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0077.wav|1|EN|It is the fire, partly, she said."
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0087.wav|7|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0032.wav|2|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0004.wav|4|EN|Lord, but I'm glad to see you again, Phil.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0009.wav|12|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0099.wav|9|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0051.wav|13|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0034.wav|8|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0069.wav|0|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0087.wav|10|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0023.wav|2|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0017.wav|6|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0015.wav|16|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0052.wav|4|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0082.wav|9|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0022.wav|1|EN|Hardly were our plans made public before we were met by powerful opposition."
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0008.wav|15|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0031.wav|2|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0007.wav|16|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0062.wav|1|EN|The men stared into each other's face."
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0007.wav|15|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0052.wav|1|EN|It was a curious coincidence."
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0067.wav|17|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0092.wav|2|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0066.wav|16|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0080.wav|15|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0006.wav|1|EN|God bless 'em, I hope I'll go on seeing them forever."
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0076.wav|8|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0097.wav|11|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0022.wav|17|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0037.wav|17|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0082.wav|8|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0082.wav|4|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0030.wav|7|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0007.wav|6|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0025.wav|15|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0092.wav|5|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0025.wav|16|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0071.wav|3|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0082.wav|7|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0091.wav|12|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0073.wav|6|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0074.wav|10|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0004.wav|2|EN|Lord, but I'm glad to see you again, Phil.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0067.wav|11|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0065.wav|12|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0090.wav|12|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0068.wav|5|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0100.wav|13|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0079.wav|5|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0051.wav|16|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0004.wav|7|EN|Lord, but I'm glad to see you again, Phil.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0074.wav|11|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0016.wav|4|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0027.wav|14|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0018.wav|5|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0055.wav|12|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0088.wav|17|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0070.wav|9|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0053.wav|0|EN|Suddenly his fingers closed tightly over the handkerchief.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0077.wav|2|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0022.wav|15|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0096.wav|7|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0090.wav|9|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0012.wav|14|EN|Gregson shoved back his chair and rose to his feet.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0067.wav|1|EN|Surely I will excuse you, she cried."
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0006.wav|17|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0053.wav|3|EN|Suddenly his fingers closed tightly over the handkerchief.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0056.wav|2|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0035.wav|7|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0014.wav|16|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0067.wav|10|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0043.wav|7|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0049.wav|4|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0041.wav|5|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0058.wav|1|EN|I came for information more out of curiosity than anything else."
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0016.wav|14|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0080.wav|13|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0082.wav|16|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0003.wav|13|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0049.wav|12|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0065.wav|10|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0035.wav|14|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0066.wav|14|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0042.wav|16|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0011.wav|4|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0078.wav|10|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0055.wav|3|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0013.wav|10|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0086.wav|8|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0038.wav|8|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0051.wav|2|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0011.wav|12|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0098.wav|16|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0037.wav|2|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0012.wav|7|EN|Gregson shoved back his chair and rose to his feet.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0034.wav|2|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0014.wav|9|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0038.wav|14|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0022.wav|6|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0060.wav|17|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0070.wav|13|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0058.wav|2|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0085.wav|17|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0046.wav|12|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0037.wav|13|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0032.wav|16|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0075.wav|15|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0014.wav|13|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0025.wav|8|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0042.wav|15|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0085.wav|9|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0035.wav|8|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0020.wav|2|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0095.wav|8|EN|A big canvas tent was the first thing to come within his vision.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0034.wav|15|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0048.wav|9|EN|He looked at the handkerchief more closely.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0085.wav|1|EN|A trickle of fresh blood ran over his face."
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0089.wav|7|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0009.wav|14|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0001.wav|2|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0028.wav|0|EN|Robbery, bribery, fraud, 
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0036.wav|4|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0015.wav|10|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0078.wav|4|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0056.wav|6|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0095.wav|4|EN|A big canvas tent was the first thing to come within his vision.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0086.wav|2|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0072.wav|14|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0008.wav|16|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0008.wav|9|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0089.wav|17|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0039.wav|13|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0081.wav|12|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0035.wav|15|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0076.wav|3|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0081.wav|5|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0057.wav|12|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0042.wav|7|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0097.wav|12|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0041.wav|17|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0099.wav|8|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0071.wav|16|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0057.wav|0|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0004.wav|1|EN|Lord, but I'm glad to see you again, Phil."
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0081.wav|14|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0069.wav|10|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0085.wav|12|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0048.wav|0|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0097.wav|13|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0079.wav|2|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0076.wav|2|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0033.wav|9|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0095.wav|17|EN|A big canvas tent was the first thing to come within his vision.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0037.wav|6|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0005.wav|8|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0072.wav|11|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0010.wav|1|EN|I'm playing a single hand in what looks like a losing game."
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0099.wav|6|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0013.wav|14|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0023.wav|15|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0047.wav|14|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0054.wav|15|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0017.wav|7|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0061.wav|16|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0076.wav|6|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0086.wav|12|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0014.wav|1|EN|Now you're coming down to business, Phil, he exclaimed."
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0100.wav|4|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0094.wav|2|EN|He had barely entered this when he saw the glow of a fire.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0082.wav|10|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0045.wav|6|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0072.wav|3|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0059.wav|16|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0043.wav|17|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0056.wav|4|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0030.wav|2|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0055.wav|4|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0020.wav|4|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0058.wav|5|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0010.wav|11|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0011.wav|8|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0068.wav|7|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0098.wav|9|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0024.wav|8|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0015.wav|8|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0007.wav|4|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0044.wav|10|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0007.wav|2|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0041.wav|9|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0063.wav|4|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0020.wav|1|EN|Clubs and balls and cities grew to be only memories."
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0055.wav|17|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0086.wav|6|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0070.wav|14|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0005.wav|1|EN|Will we ever forget it."
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0020.wav|13|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0037.wav|7|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0096.wav|8|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0027.wav|15|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0027.wav|0|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0061.wav|5|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0048.wav|8|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0007.wav|10|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0015.wav|2|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0066.wav|8|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0100.wav|17|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0033.wav|8|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0049.wav|15|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0038.wav|17|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0096.wav|5|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0041.wav|2|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0058.wav|4|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0070.wav|17|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0068.wav|11|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0033.wav|4|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0043.wav|16|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0011.wav|6|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0039.wav|7|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0067.wav|8|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0097.wav|17|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0044.wav|4|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0074.wav|9|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0008.wav|0|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0044.wav|13|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0073.wav|12|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0044.wav|5|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0049.wav|13|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0013.wav|0|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0068.wav|12|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0051.wav|12|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0014.wav|2|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0065.wav|7|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0034.wav|3|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0054.wav|5|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0027.wav|4|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0068.wav|4|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0098.wav|15|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0090.wav|11|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0088.wav|12|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0092.wav|11|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0056.wav|14|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0060.wav|16|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0027.wav|6|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0048.wav|10|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0061.wav|6|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0006.wav|3|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0062.wav|2|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0038.wav|2|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0086.wav|15|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0019.wav|5|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0095.wav|15|EN|A big canvas tent was the first thing to come within his vision.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0079.wav|16|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0084.wav|16|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0078.wav|14|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0026.wav|2|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0093.wav|10|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0035.wav|6|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0066.wav|10|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0001.wav|0|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0073.wav|13|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0006.wav|12|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0013.wav|11|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0073.wav|3|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0029.wav|13|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0030.wav|17|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0065.wav|0|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0097.wav|5|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0014.wav|7|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0094.wav|7|EN|He had barely entered this when he saw the glow of a fire.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0078.wav|5|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0043.wav|5|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0050.wav|15|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0015.wav|17|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0051.wav|14|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0081.wav|9|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0006.wav|16|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0019.wav|13|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0022.wav|14|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0044.wav|0|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0094.wav|4|EN|He had barely entered this when he saw the glow of a fire.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0075.wav|2|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0039.wav|17|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0091.wav|17|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0032.wav|3|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0009.wav|1|EN|He turned sharply, and faced Gregson across the table."
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0083.wav|10|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0054.wav|14|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0051.wav|6|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0019.wav|7|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0087.wav|14|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0004.wav|17|EN|Lord, but I'm glad to see you again, Phil.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0055.wav|13|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0026.wav|1|EN|It occurred to me that there would have to be an accounting."
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0048.wav|11|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0079.wav|11|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0077.wav|9|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0015.wav|14|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0026.wav|5|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0052.wav|3|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0041.wav|0|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0029.wav|7|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0098.wav|7|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0025.wav|3|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0090.wav|1|EN|The singing voice approached rapidly."
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0071.wav|1|EN|What was the object of your little sensation."
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0099.wav|12|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0052.wav|15|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0050.wav|17|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0039.wav|5|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0022.wav|10|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0084.wav|3|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0056.wav|12|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0046.wav|11|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0073.wav|9|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0008.wav|3|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0010.wav|2|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0100.wav|11|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0095.wav|14|EN|A big canvas tent was the first thing to come within his vision.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0066.wav|0|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0036.wav|2|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0060.wav|4|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0005.wav|14|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0030.wav|16|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0002.wav|3|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0003.wav|7|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0061.wav|15|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0028.wav|6|EN|Robbery, bribery, fraud, 
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0063.wav|2|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0088.wav|3|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0092.wav|7|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0039.wav|1|EN|The ship should be in within a week or ten days."
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0098.wav|12|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0026.wav|14|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0092.wav|10|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0076.wav|5|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0025.wav|14|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0091.wav|13|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0083.wav|4|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0028.wav|1|EN|Robbery, bribery, fraud, "
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0053.wav|9|EN|Suddenly his fingers closed tightly over the handkerchief.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0031.wav|15|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0100.wav|0|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0018.wav|1|EN|There was a change now."
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0100.wav|14|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0078.wav|15|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0083.wav|17|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0046.wav|9|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0063.wav|11|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0089.wav|4|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0036.wav|15|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0031.wav|11|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0048.wav|2|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0043.wav|15|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0081.wav|4|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0047.wav|11|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0050.wav|16|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0060.wav|7|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0096.wav|17|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0019.wav|14|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0082.wav|3|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0049.wav|11|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0068.wav|17|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0094.wav|1|EN|He had barely entered this when he saw the glow of a fire."
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0035.wav|13|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0009.wav|10|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0023.wav|12|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0022.wav|4|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0082.wav|12|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0007.wav|9|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0017.wav|2|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0009.wav|3|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0072.wav|12|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0077.wav|8|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0049.wav|0|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0056.wav|16|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0082.wav|6|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0063.wav|14|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0075.wav|11|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0017.wav|16|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0069.wav|1|EN|It was his intention to return to Eileen and her father."
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0094.wav|0|EN|He had barely entered this when he saw the glow of a fire.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0051.wav|9|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0098.wav|8|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0091.wav|11|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0067.wav|2|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0061.wav|4|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0015.wav|4|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0081.wav|1|EN|What if she did not come to the rock."
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0036.wav|10|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0038.wav|9|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0038.wav|7|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0021.wav|9|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0100.wav|12|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0073.wav|10|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0076.wav|10|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0069.wav|11|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0020.wav|15|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0053.wav|4|EN|Suddenly his fingers closed tightly over the handkerchief.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0069.wav|5|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0035.wav|3|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0006.wav|11|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0075.wav|13|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0064.wav|15|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0011.wav|15|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0024.wav|15|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0012.wav|3|EN|Gregson shoved back his chair and rose to his feet.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0085.wav|3|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0043.wav|2|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0059.wav|11|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0099.wav|7|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0002.wav|12|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0026.wav|13|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0018.wav|8|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0017.wav|8|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0087.wav|3|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0045.wav|9|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0088.wav|1|EN|He made sure that the magazine was loaded, and resumed his paddling."
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0005.wav|7|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0021.wav|5|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0040.wav|10|EN|I suppose you wonder why she is coming up here.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0068.wav|3|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0033.wav|12|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0066.wav|4|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0069.wav|14|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0023.wav|6|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0072.wav|13|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0047.wav|10|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0089.wav|2|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0092.wav|6|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0019.wav|4|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0083.wav|14|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0077.wav|15|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0038.wav|4|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0030.wav|8|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0079.wav|10|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0038.wav|6|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0013.wav|4|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0062.wav|17|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0024.wav|9|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0032.wav|9|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0100.wav|1|EN|You must sleep, he urged."
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0064.wav|2|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0060.wav|9|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0088.wav|8|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0061.wav|11|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0005.wav|16|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0005.wav|15|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0091.wav|9|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0066.wav|6|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0021.wav|10|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0080.wav|2|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0026.wav|4|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0094.wav|3|EN|He went down in mid-stream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0075.wav|5|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0013.wav|12|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0059.wav|13|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0022.wav|8|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0048.wav|16|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0093.wav|6|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0056.wav|17|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0058.wav|9|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0002.wav|13|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0045.wav|8|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0004.wav|9|EN|Lord, but I'm glad to see you again, Phil.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0095.wav|1|EN|A big canvas tent was the first thing to come within his vision."
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0001.wav|16|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0072.wav|15|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0003.wav|2|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0039.wav|0|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0020.wav|5|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0009.wav|0|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0050.wav|14|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0021.wav|7|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0100.wav|7|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0007.wav|8|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0053.wav|6|EN|Suddenly his fingers closed tightly over the handkerchief.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0092.wav|12|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0051.wav|0|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0078.wav|3|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0030.wav|4|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0042.wav|12|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0060.wav|0|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0066.wav|9|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0058.wav|7|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0095.wav|5|EN|A big canvas tent was the first thing to come within his vision.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0053.wav|12|EN|Suddenly his fingers closed tightly over the handkerchief.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0071.wav|11|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0059.wav|1|EN|His immaculate appearance was gone."
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0090.wav|17|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0077.wav|13|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0055.wav|2|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0019.wav|3|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0032.wav|6|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0068.wav|2|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0028.wav|8|EN|Robbery, bribery, fraud, 
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0011.wav|16|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0024.wav|11|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0056.wav|9|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0035.wav|1|EN|He stopped, and Philip nodded at the horrified question in his eyes."
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0076.wav|17|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0047.wav|1|EN|Close beside him gleamed the white fangs of the wolf-dog."
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0066.wav|2|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0084.wav|2|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0084.wav|5|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0013.wav|3|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0095.wav|3|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0090.wav|5|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0034.wav|7|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0088.wav|4|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0083.wav|6|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0013.wav|5|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0089.wav|3|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0044.wav|1|EN|Her own betrayal of herself was like tonic to Philip."
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0087.wav|11|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0055.wav|11|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0020.wav|10|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0025.wav|10|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0041.wav|13|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0066.wav|12|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0034.wav|4|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0026.wav|7|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0071.wav|17|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0089.wav|5|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0080.wav|8|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0040.wav|6|EN|I suppose you wonder why she is coming up here.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0048.wav|15|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0055.wav|5|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0097.wav|1|EN|Then you can arrange yourself comfortably among these robes in the bow."
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0010.wav|12|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0031.wav|4|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0097.wav|15|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0097.wav|10|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0069.wav|3|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0091.wav|6|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0046.wav|4|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0076.wav|11|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0090.wav|14|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0016.wav|5|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0096.wav|16|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0013.wav|6|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0006.wav|5|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0029.wav|6|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0067.wav|15|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0048.wav|3|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0098.wav|14|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0082.wav|17|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0063.wav|1|EN|Yes, it was a man who asked, a stranger."
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0083.wav|5|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0073.wav|2|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0084.wav|17|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0070.wav|16|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0029.wav|1|EN|Their forces were already moving into the north country."
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0063.wav|7|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0080.wav|11|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0067.wav|3|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0062.wav|4|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0095.wav|16|EN|A big canvas tent was the first thing to come within his vision.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0065.wav|17|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0032.wav|0|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0038.wav|16|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0010.wav|16|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0003.wav|17|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0036.wav|13|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0022.wav|13|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0028.wav|17|EN|Robbery, bribery, fraud, 
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0064.wav|6|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0003.wav|11|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0081.wav|0|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0024.wav|2|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0078.wav|17|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0092.wav|13|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0001.wav|4|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0037.wav|12|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0093.wav|7|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0045.wav|14|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0042.wav|4|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0046.wav|13|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0031.wav|13|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0077.wav|17|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0034.wav|6|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0060.wav|12|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0020.wav|11|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0062.wav|11|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0075.wav|17|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0009.wav|16|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0029.wav|0|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0063.wav|17|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0070.wav|0|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0016.wav|15|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0007.wav|3|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0095.wav|7|EN|A big canvas tent was the first thing to come within his vision.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0001.wav|1|EN|Author of the danger trail, Philip Steels, etc."
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0006.wav|15|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0050.wav|2|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0090.wav|7|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0081.wav|16|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0090.wav|0|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0093.wav|12|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0030.wav|13|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0085.wav|15|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0056.wav|5|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0074.wav|15|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0046.wav|3|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0027.wav|13|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0043.wav|12|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0018.wav|14|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0035.wav|11|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0036.wav|6|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0089.wav|12|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0036.wav|12|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0052.wav|14|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0047.wav|17|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0040.wav|8|EN|I suppose you wonder why she is coming up here.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0092.wav|14|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0029.wav|17|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0090.wav|6|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0051.wav|8|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0015.wav|5|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0066.wav|11|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0043.wav|0|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0053.wav|10|EN|Suddenly his fingers closed tightly over the handkerchief.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0028.wav|16|EN|Robbery, bribery, fraud, 
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0014.wav|14|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0065.wav|5|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0018.wav|7|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0057.wav|4|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0081.wav|6|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0026.wav|8|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0055.wav|16|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0043.wav|4|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0075.wav|0|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0023.wav|7|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0022.wav|0|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0023.wav|9|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0031.wav|1|EN|They were three hundred yards apart."
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0026.wav|17|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0037.wav|5|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0087.wav|9|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0077.wav|6|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0002.wav|11|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0057.wav|2|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0052.wav|6|EN|It was a curious coincidence.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0084.wav|1|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open."
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0012.wav|8|EN|Gregson shoved back his chair and rose to his feet.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0006.wav|2|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0090.wav|3|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0032.wav|14|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0019.wav|2|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0032.wav|8|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0073.wav|17|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0031.wav|14|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0023.wav|13|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0036.wav|16|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0083.wav|12|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0011.wav|11|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0064.wav|1|EN|The fourth and fifth days passed without any developments."
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0032.wav|13|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0088.wav|5|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0095.wav|6|EN|A big canvas tent was the first thing to come within his vision.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0091.wav|8|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0029.wav|14|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0070.wav|8|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0014.wav|17|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0077.wav|16|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0030.wav|6|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0067.wav|0|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0080.wav|3|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0045.wav|16|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0068.wav|6|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0016.wav|11|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0020.wav|0|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0039.wav|6|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0055.wav|8|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0031.wav|3|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0040.wav|5|EN|I suppose you wonder why she is coming up here.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0059.wav|3|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0040.wav|9|EN|I suppose you wonder why she is coming up here.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0013.wav|9|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0017.wav|14|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0004.wav|6|EN|Lord, but I'm glad to see you again, Phil.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0027.wav|1|EN|To my surprise he began to show actual enthusiasm in my favor."
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0004.wav|10|EN|Lord, but I'm glad to see you again, Phil.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0073.wav|4|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0074.wav|3|EN|Now he held the whip-hand; Brokaw had acknowledged his own surrender.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0048.wav|13|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0063.wav|0|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0004.wav|13|EN|Lord, but I'm glad to see you again, Phil.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0043.wav|8|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0089.wav|14|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0033.wav|11|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0061.wav|10|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0063.wav|5|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0023.wav|1|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges."
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0042.wav|10|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0007.wav|7|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0059.wav|14|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0050.wav|13|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0050.wav|5|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0094.wav|12|EN|He had barely entered this when he saw the glow of a fire.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0068.wav|0|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0079.wav|7|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0050.wav|10|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0096.wav|11|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0043.wav|14|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0050.wav|3|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0055.wav|7|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0080.wav|14|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0012.wav|13|EN|Gregson shoved back his chair and rose to his feet.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0065.wav|3|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0046.wav|8|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0029.wav|2|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0020.wav|12|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0084.wav|8|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0087.wav|0|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0029.wav|4|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0059.wav|8|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0040.wav|16|EN|I suppose you wonder why she is coming up here.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0002.wav|5|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0027.wav|9|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0053.wav|2|EN|Suddenly his fingers closed tightly over the handkerchief.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0099.wav|5|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0042.wav|0|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0035.wav|0|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0061.wav|9|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0029.wav|16|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0093.wav|9|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0044.wav|17|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0039.wav|11|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0094.wav|14|EN|He had barely entered this when he saw the glow of a fire.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0064.wav|8|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0018.wav|10|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0063.wav|15|EN|Yes, it was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0049.wav|8|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0023.wav|0|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0086.wav|17|EN|Death had come with terrible suddenness.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0002.wav|9|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0025.wav|13|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0065.wav|13|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0034.wav|0|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0034.wav|11|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0059.wav|4|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0092.wav|3|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0014.wav|15|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0085.wav|11|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0099.wav|15|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0047.wav|8|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0002.wav|7|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0064.wav|13|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0100.wav|2|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0080.wav|12|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0012.wav|4|EN|Gregson shoved back his chair and rose to his feet.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0047.wav|4|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0008.wav|8|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0090.wav|15|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0046.wav|15|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0050.wav|11|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0015.wav|15|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0065.wav|11|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0037.wav|1|EN|I was the only one who remained sitting."
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0066.wav|17|EN|He saw Jeanne falter for a moment.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0006.wav|9|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0072.wav|4|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0100.wav|8|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0027.wav|16|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0044.wav|3|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0047.wav|6|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0071.wav|5|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0067.wav|9|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0083.wav|8|EN|A shadow was creeping over Pierre's eyes.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0047.wav|5|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0074.wav|2|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0061.wav|12|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0008.wav|11|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0001.wav|10|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0093.wav|1|EN|For a full minute he crouched and listened."
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0018.wav|6|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0060.wav|14|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0081.wav|10|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0063.wav|3|EN|Yes It was a man who asked, a stranger.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0078.wav|8|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0047.wav|15|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0001.wav|3|EN|AUTHOR OF THE DANGER TRAIL, PHILIP STEELS, ETC
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0093.wav|2|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0070.wav|3|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0027.wav|10|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0054.wav|0|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0021.wav|6|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0032.wav|1|EN|Since then some mysterious force has been fighting us at every step."
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0026.wav|9|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0062.wav|10|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0076.wav|16|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0071.wav|6|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0051.wav|10|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0049.wav|17|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0087.wav|4|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0087.wav|13|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0042.wav|14|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0068.wav|15|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0001.wav|5|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0084.wav|12|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0051.wav|17|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0046.wav|14|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0029.wav|8|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0027.wav|11|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0050.wav|0|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0010.wav|9|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0081.wav|8|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0013.wav|15|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0018.wav|13|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0011.wav|13|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0017.wav|11|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0081.wav|11|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0037.wav|15|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0071.wav|0|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0023.wav|3|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0042.wav|8|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0023.wav|17|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0095.wav|13|EN|A big canvas tent was the first thing to come within his vision.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0037.wav|16|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0008.wav|5|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0046.wav|6|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0011.wav|10|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0077.wav|11|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0032.wav|5|EN|Since then some mysterious force has been fighting us at every step.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0003.wav|8|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0092.wav|8|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0051.wav|5|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0072.wav|10|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0089.wav|6|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0058.wav|13|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0056.wav|8|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0001.wav|13|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0028.wav|9|EN|Robbery, bribery, fraud, 
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0098.wav|3|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0020.wav|3|EN|Clubs and balls and cities grew to be only memories.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0010.wav|5|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0049.wav|6|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0082.wav|5|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0018.wav|12|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0022.wav|12|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0093.wav|5|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0019.wav|0|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0058.wav|14|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0070.wav|7|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0041.wav|3|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0082.wav|11|EN|His face was streaming with blood.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0089.wav|8|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0014.wav|12|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0033.wav|15|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0078.wav|13|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0062.wav|6|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0069.wav|8|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0056.wav|15|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0015.wav|1|EN|It's the aurora borealis."
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0085.wav|16|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0005.wav|2|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0077.wav|14|EN|It is the fire, partly, she said.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0048.wav|6|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0024.wav|3|EN|It was my reports from the north which chiefly induced people to buy.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0061.wav|0|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0042.wav|5|EN|How could he explain his possession of the sketch.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0009.wav|4|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0002.wav|17|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0074.wav|7|EN|And now, down there, Eileen was waiting for him.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0054.wav|3|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0088.wav|6|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0045.wav|12|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0061.wav|3|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0005.wav|4|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0056.wav|1|EN|Pearce's little eyes were fixed on him shrewdly."
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0076.wav|1|EN|The gray eyes faltered; the flush deepened."
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0049.wav|9|EN|Gregson was asleep when he re-entered the cabin.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0005.wav|11|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0021.wav|2|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0075.wav|10|EN|There has been a change, she interrupted him.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0005.wav|9|EN|Will we ever forget it.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0055.wav|6|EN|Philip stood undecided, his ears strained to catch the slightest sound.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0054.wav|9|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0031.wav|17|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0041.wav|12|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0086.wav|3|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0065.wav|14|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0031.wav|8|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0087.wav|17|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0070.wav|10|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0085.wav|14|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0004.wav|8|EN|Lord, but I'm glad to see you again, Phil.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0087.wav|6|EN|Philip bent lower, and stared into the face of the dead man.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0094.wav|13|EN|He had barely entered this when he saw the glow of a fire.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0016.wav|13|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0025.wav|5|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0071.wav|2|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0043.wav|11|EN|It seemed nearer to him since he had seen and talked with Gregson.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0089.wav|15|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0099.wav|1|EN|A maddening joy pounded in his brain."
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0100.wav|9|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0062.wav|9|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0018.wav|2|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0061.wav|2|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0041.wav|14|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0023.wav|8|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0084.wav|10|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0011.wav|2|EN|If I ever needed a fighter in my life I need one now.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0067.wav|12|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0064.wav|7|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0012.wav|9|EN|Gregson shoved back his chair and rose to his feet.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0054.wav|10|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0030.wav|15|EN|I had faith in them.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0048.wav|17|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0003.wav|12|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0027.wav|12|EN|To my surprise he began to show actual enthusiasm in my favor.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0092.wav|17|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0064.wav|16|EN|The fourth and fifth days passed without any developments.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0039.wav|8|EN|The ship should be in within a week or ten days.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0001.wav|12|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0025.wav|7|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0068.wav|13|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0060.wav|5|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0009.wav|9|EN|He turned sharply, and faced Gregson across the table.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0057.wav|16|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0090.wav|4|EN|The singing voice approached rapidly.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0098.wav|13|EN|Shall I carry you.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0014.wav|11|EN|Now you're coming down to business, Phil, he exclaimed.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0007.wav|0|EN|And you always want to see it in the superlative degree.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0012.wav|15|EN|Gregson shoved back his chair and rose to his feet.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0036.wav|9|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0062.wav|3|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0017.wav|13|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0059.wav|5|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0044.wav|7|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0100.wav|5|EN|You must sleep, he urged.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0060.wav|6|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0077.wav|3|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0093.wav|16|EN|For a full minute he crouched and listened.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0017.wav|15|EN|From that moment his friendship for Belize turns to hatred and jealousy.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0016.wav|12|EN|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0070.wav|11|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0079.wav|14|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0048.wav|4|EN|He looked at the handkerchief more, closely.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0073.wav|0|EN|The promoter's eyes were heavy, with little puffy bags under them.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0053.wav|13|EN|Suddenly his fingers closed tightly over the handkerchief.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0015.wav|11|EN|It's the aurora borealis.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0047.wav|2|EN|Close beside him gleamed the white fangs of the wolf-dog.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0045.wav|5|EN|He moved away as quietly as he had come.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0088.wav|14|EN|He made sure that the magazine was loaded, and resumed his paddling.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0041.wav|6|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0018.wav|0|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0085.wav|5|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0080.wav|4|EN|What if Jeanne failed him.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0054.wav|7|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0036.wav|8|EN|She turned in at the hotel.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0019.wav|16|EN|I followed the line of the proposed railroad, looking for chances.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0091.wav|5|EN|His blood grew hot with rage at the thought.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0002.wav|14|EN|Not at this particular case, Tom, apologized Whittemore.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0025.wav|12|EN|I was about to do this when cooler judgment prevailed.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0041.wav|7|EN|Meanwhile I'll go out to breathe a spell.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0078.wav|16|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0029.wav|12|EN|Their forces were already moving into the north country.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0002.wav|1|EN|Not at this particular case, Tom, apologized Whittemore."
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0034.wav|13|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_bdl_arctic/wav/arctic_a0022.wav|5|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0072.wav|2|EN|But who was Eileen's double.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0028.wav|10|EN|Robbery, bribery, fraud, 
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0013.wav|17|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0022.wav|11|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0071.wav|12|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0040.wav|12|EN|I suppose you wonder why she is coming up here.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0003.wav|4|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0035.wav|4|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0037.wav|0|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0010.wav|13|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0053.wav|1|EN|Suddenly his fingers closed tightly over the handkerchief."
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0057.wav|3|EN|I have no idea, replied Philip.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0050.wav|8|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0061.wav|7|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0018.wav|15|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0031.wav|7|EN|They were three hundred yards apart.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0059.wav|17|EN|His immaculate appearance was gone.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0096.wav|4|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0033.wav|13|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0096.wav|9|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0003.wav|3|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0097.wav|6|EN|Then you can arrange yourself comfortably among these robes in the bow.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0022.wav|16|EN|Hardly were our plans made public before we were met by powerful opposition.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0001.wav|6|EN|Author of the danger trail, Philip Steels, etc.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0065.wav|1|EN|They closed now until his fingers were like cords of steel."
+data/real/CMU_ARCTIC/cmu_us_gka_arctic/wav/arctic_a0018.wav|9|EN|There was a change now.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0062.wav|0|EN|The men stared into each other's face.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0040.wav|15|EN|I suppose you wonder why she is coming up here.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0010.wav|10|EN|I'm playing a single hand in what looks like a losing game.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0008.wav|12|EN|Gad, your letter came just in time.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0078.wav|7|EN|Then, and at supper, he tried to fathom her.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0068.wav|10|EN|In a flash Philip followed its direction.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0081.wav|17|EN|What if she did not come to the rock.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0006.wav|4|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0079.wav|17|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0067.wav|4|EN|Surely I will excuse you, she cried.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0044.wav|6|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0046.wav|1|EN|The girl faced him, her eyes shining with sudden fear."
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0054.wav|12|EN|There was nothing on the rock.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0038.wav|12|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0092.wav|0|EN|He went down in midstream, searching the shadows of both shores.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0037.wav|8|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0085.wav|13|EN|A trickle of fresh blood ran over his face.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0056.wav|7|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_slt_arctic/wav/arctic_a0061.wav|17|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0061.wav|14|EN|Philip snatched at the letter which Gregson held out to him.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0084.wav|0|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0044.wav|16|EN|Her own betrayal of herself was like tonic to Philip.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0028.wav|12|EN|Robbery, bribery, fraud, 
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0050.wav|12|EN|In spite of their absurdity the words affected Philip curiously.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0096.wav|10|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0060.wav|11|EN|Anyway, no one saw her like that.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0051.wav|11|EN|The lace was of a delicate ivory color, faintly tinted with yellow.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0065.wav|2|EN|They closed now until his fingers were like cords of steel.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0069.wav|6|EN|It was his intention to return to Eileen and her father.
+data/real/CMU_ARCTIC/cmu_us_fem_arctic/wav/arctic_a0006.wav|8|EN|God bless 'em, I hope I'll go on seeing them forever.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0035.wav|10|EN|He stopped, and Philip nodded at the horrified question in his eyes.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0034.wav|16|EN|Men of Selden's stamp don't stop at women and children.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0037.wav|3|EN|I was the only one who remained sitting.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0023.wav|16|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0099.wav|4|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0089.wav|10|EN|The nightglow was treacherous to shoot by.
+data/real/CMU_ARCTIC/cmu_us_aup_arctic/wav/arctic_a0099.wav|2|EN|A maddening joy pounded in his brain.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0040.wav|1|EN|I suppose you wonder why she is coming up here."
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0070.wav|12|EN|He would first hunt up Gregson and begin his work there.
+data/real/CMU_ARCTIC/cmu_us_ljm_arctic/wav/arctic_a0076.wav|12|EN|The gray eyes faltered; the flush deepened.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0058.wav|15|EN|I came for information more out of curiosity than anything else.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0096.wav|14|EN|Perhaps she had already met her fate a little deeper in the forest.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0084.wav|13|EN|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+data/real/CMU_ARCTIC/cmu_us_rms_arctic/wav/arctic_a0003.wav|14|EN|For the twentieth time that evening the two men shook hands.
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0023.wav|10|EN|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0021.wav|15|EN|It fairly clubbed me into recognizing it.
+data/real/CMU_ARCTIC/cmu_us_awb_arctic/wav/arctic_a0033.wav|3|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_axb_arctic/wav/arctic_a0071.wav|4|EN|What was the object of your little sensation.
+data/real/CMU_ARCTIC/cmu_us_ksp_arctic/wav/arctic_a0056.wav|11|EN|Pearce's little eyes were fixed on him shrewdly.
+data/real/CMU_ARCTIC/cmu_us_clb_arctic/wav/arctic_a0079.wav|6|EN|It was a large canoe.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0046.wav|16|EN|The girl faced him, her eyes shining with sudden fear.
+data/real/CMU_ARCTIC/cmu_us_rxr_arctic/wav/arctic_a0026.wav|15|EN|It occurred to me that there would have to be an accounting.
+data/real/CMU_ARCTIC/cmu_us_aew_arctic/wav/arctic_a0038.wav|0|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_lnh_arctic/wav/arctic_a0038.wav|13|EN|We'll have to watch our chances.
+data/real/CMU_ARCTIC/cmu_us_ahw_arctic/wav/arctic_a0070.wav|1|EN|He would first hunt up Gregson and begin his work there."
+data/real/CMU_ARCTIC/cmu_us_jmk_arctic/wav/arctic_a0033.wav|10|EN|He unfolded a long typewritten letter, and handed it to Gregson.
+data/real/CMU_ARCTIC/cmu_us_eey_arctic/wav/arctic_a0013.wav|7|EN|He was a head shorter than his companion, of almost delicate physique.
+data/real/CMU_ARCTIC/cmu_us_slp_arctic/wav/arctic_a0035.wav|16|EN|He stopped, and Philip nodded at the horrified question in his eyes.
